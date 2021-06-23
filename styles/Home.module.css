@@ -14,6 +14,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
 }
 
 .footer {
@@ -47,16 +48,17 @@
 }
 
 .title {
-  margin: 0;
+  margin-bottom: -4em;
   line-height: 1.15;
   font-size: 4rem;
 }
-
 .title,
 .description {
   text-align: center;
 }
-
+.title img {
+  width: 60%;
+}
 .description {
   line-height: 1.5;
   font-size: 1.5rem;
@@ -111,9 +113,11 @@
 }
 
 .logo {
-  height: 1em;
+  height: 6em;
 }
-
+.menu {
+  background-color: #ffc1b1
+}
 @media (max-width: 600px) {
   .grid {
     width: 100%;

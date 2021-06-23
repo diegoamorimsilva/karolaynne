@@ -6,7 +6,6 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Karolaynne Gondim</title>
-        <meta name="Karolaynne Gondim">Psicologa Karolaynne Gondim</meta>
         <link rel="icon" href="/02.png"/>
         <header>
         </header>

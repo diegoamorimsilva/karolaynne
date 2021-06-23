@@ -4,6 +4,7 @@ body {
   background-image: url("/logo.jpeg");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: 50%;
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,

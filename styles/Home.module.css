@@ -1,5 +1,5 @@
 .container {
-  min-height: 100vh;
+  min-height: 50vh;
   padding: 0 0.5rem;
   display: flex;
   flex-direction: column;
@@ -48,7 +48,7 @@
 }
 
 .title {
-  margin-bottom: -4em;
+  margin-bottom: -5em;
   line-height: 1.15;
   font-size: 4rem;
 }
@@ -57,7 +57,7 @@
   text-align: center;
 }
 .title img {
-  width: 60%;
+  width: 30%;
 }
 .description {
   line-height: 1.5;
